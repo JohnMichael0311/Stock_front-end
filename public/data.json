@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "TATA_bit",
+        "price": 190
+    },
+    {
+        "id": 2,
+        "name": "twitter_X",
+        "price": 2300
+    },
+    {
+        "id": 3,
+        "name": "BMW",
+        "price": 2000
+    },
+    {
+        "id": 4,
+        "name": "Amul_Milk",
+        "price": 100
+    },
+    {
+        "id": 5,
+        "name": "Audi",
+        "price": 1800
+    }
+]
